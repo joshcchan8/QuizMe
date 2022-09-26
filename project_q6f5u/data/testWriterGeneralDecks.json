@@ -1,0 +1,22 @@
+{
+    "deckNames": [{"deckName": "deck2"}],
+    "decks": [{"deck": {
+        "head": 0,
+        "tail": 1,
+        "deckName": "deck2",
+        "deckNodes": [
+            {"card": {
+                "onQuestionSide": true,
+                "question": "Question: 2+2",
+                "answer": "Answer: 4"
+            }},
+            {"card": {
+                "onQuestionSide": true,
+                "question": "Question: 3+3",
+                "answer": "Answer: 6"
+            }}
+        ],
+        "currentlyViewing": 0,
+        "cardCounter": 2
+    }}]
+}
