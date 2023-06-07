@@ -1,4 +1,4 @@
-# My Personal Project: Flashcard Review System
+# My Personal Project: QuizMe
 
 ## About the Project
 
